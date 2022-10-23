@@ -1,0 +1,36 @@
+html {
+    font-size: .8em;
+    font-family: "Noto Sans", sans-serif;
+    background-color: #fdfdfd;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #efefef;
+    padding: 0 20px 20px 20px;
+    border: 1px solid lightgray;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 3em;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 1px 1px 1px black;
+}
+
+p,
+li {
+    font-size: .8em;
+    line-height: 1.5;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 75%;
+}
